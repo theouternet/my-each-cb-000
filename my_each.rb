@@ -9,4 +9,4 @@ end
 end
 end
 
-ruby my_each 
+ruby my_each(["arel", "jon", "logan", "spencer"]) do 
