@@ -9,6 +9,6 @@ end
 end
 end
 
-ruby my_each(["arel", "jon", "logan", "spencer"]) do |ta|
+my_each(["arel", "jon", "logan", "spencer"]) do |ta|
   puts ta
 end
