@@ -9,6 +9,3 @@ end
 end
 end
 
-my_each(["arel", "jon", "logan", "spencer"]) do |ta|
-  puts ta
-end
